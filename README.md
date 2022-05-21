@@ -20,7 +20,7 @@ Security - >  Spring security / JWT
 
 ```
 
-After running the application, just type the  [Url for Swagger UI](http://localhost:8080/swagger-ui/index.html) in your browser.
+After running the application, just type the  [Url for Swagger UI](http://learner-center.us-east-1.elasticbeanstalk.com/swagger-ui) in your browser.
 
 
 
