@@ -22,7 +22,7 @@ spring:
 api:
   info:
     title: Learning Center
-    description: This online learning center created for managing all information about everything
+    description: This online learning center created for managing all information about everything!
     version: 1.0
     termOfService: http://murotboyev-bekzodbek.us-east-1.elasticbeanstalk.com
     contact-name: Bekzodbek Murotboyev
