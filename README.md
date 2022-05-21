@@ -3,6 +3,7 @@ ______________________________________
 This online learning center created for managing all information about everything!
 
 _________
+### DEFAULT KEY FOR AUTHORIZATION
 ```
  Username: admin
 
